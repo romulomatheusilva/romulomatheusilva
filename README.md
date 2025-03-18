@@ -1,16 +1,24 @@
-## Hi there 👋
+# Rômulo Matheus Silva de Lima!
 
-<!--
-**romulomatheusilva/romulomatheusilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Carreira
+Atualmente, sou estudante de **Desenvolvimento de Sistemas** no **Senac Recife (Técnico)**. Tenho grande interesse pela área de tecnologia e estou em busca da minha primeira experiência profissional como **Jovem Aprendiz** na área de TI.
 
-Here are some ideas to get you started:
+Estou aprendendo sobre diversas áreas do desenvolvimento de software, incluindo programação, banco de dados e desenvolvimento web e mobile. Meu objetivo é evoluir constantemente e contribuir com projetos inovadores no futuro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologias
+Atualmente, estou estudando e adquirindo conhecimento em:
+- 📌 **Banco de Dados**
+- 📌 **Desenvolvimento Web (HTML, CSS, JavaScript)**
+- 📌 **Python e Java**
+- 📌 **Kotlin**
+
+---
+
+## 📫 Contato
+- 📧 E-mail: [romulomatheusilva@gmail.com](mailto:romulomatheusilva@gmail.com)
+- 🔗 LinkedIn: [seu-linkedin](#)
+- 💻 GitHub: [github.com/romulomatheusilva](https://github.com/romulomatheusilva)
+
+--
