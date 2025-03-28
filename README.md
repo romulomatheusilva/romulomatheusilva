@@ -18,7 +18,7 @@ Atualmente, estou estudando e adquirindo conhecimento em:
 
 ## 📫 Contato
 - 📧 E-mail: [romulomatheusilva@gmail.com](mailto:romulomatheusilva@gmail.com)
-- 🔗 LinkedIn: [seu-linkedin](#)
+- 🔗 LinkedIn: www.linkedin.com/in/rômulo-matheus-8b6845307
 - 💻 GitHub: [github.com/romulomatheusilva](https://github.com/romulomatheusilva)
 
 --
